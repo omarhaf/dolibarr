@@ -1,4 +1,4 @@
-# DOLIBARR ERP & CRM
+# DOLIBARR ERP & CRM edited
 
 ![Downloads per day](https://img.shields.io/sourceforge/dw/dolibarr.svg)
 ![Build status](https://img.shields.io/travis/Dolibarr/dolibarr/develop.svg)
